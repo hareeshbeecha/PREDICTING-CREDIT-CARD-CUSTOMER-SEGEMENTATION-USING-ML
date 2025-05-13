@@ -52,10 +52,23 @@ This project was created by:
 - Lahari Kotapati  
 
 ---
+## **🙏 Contributing**
+💪 Want to improve project?  
+1. **Fork the repo**  
+2. **Create a new branch** (`git checkout -b feature-branch`)  
+3. **Commit changes** (`git commit -m "Added new feature"`)  
+4. **Push to GitHub** (`git push origin feature-branch`)  
+5. **Create a Pull Request** 🎉  
 
-### 📄 License
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute this code as per the license terms.
+---
+
+## **📩 Contact**
+👤 **Beecha Venkata Naga Hareesh**  
+📧 [beechahareesh@gmail.com](mailto:beechahareesh@gmail.com)  
+💼 LinkedIn: [Hareesh Beecha](https://www.linkedin.com/in/hareeshbeecha/)  
+
+---
+
 
 
    
